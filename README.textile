@@ -1,0 +1,9 @@
+h1. IsbnBr
+
+Pequeno código para fazer scrap na busca de Isbn da Biblioteca nacional
+
+bq. IsbnBr.new("9788563876119").titulo 
+
+h2. TODOS
+
+Muita coisa para fazer ....
